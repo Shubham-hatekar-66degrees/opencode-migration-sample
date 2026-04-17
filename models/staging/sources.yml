@@ -2,7 +2,7 @@ version: 2
 sources:
   - name: raw_data
     database: data-platforms-66d-demos
-    schema: public
+    schema: ecommerce_project
     tables:
       - name: orders
       - name: customers
